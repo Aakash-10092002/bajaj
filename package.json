@@ -1,0 +1,12 @@
+{
+    "name": "bfhl-api",
+    "version": "1.0.0",
+    "description": "BFHL API for processing data",
+    "main": "backend.js",
+    "scripts": {
+      "start": "node backend.js"
+    },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
